@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647861871501",
+    "project_id": "mybusgo-fe495",
+    "storage_bucket": "mybusgo-fe495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647861871501:android:1ab32cc75ce61fa41293c4",
+        "android_client_info": {
+          "package_name": "com.shaun.mybusgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkwQCIBtRwc7q9WALV5hjz8YMVNFpClE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
